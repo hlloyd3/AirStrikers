@@ -9,6 +9,9 @@ public class Rebound : MonoBehaviour
 
     Vector3 lastVelocity;
 
+    public GameObject audioMaker;
+
+    
     private void Awake()
     {
         rb = GetComponent<Rigidbody>();
@@ -27,6 +30,7 @@ public class Rebound : MonoBehaviour
             var direction = Vector3.Reflect(lastVelocity.normalized, collision.contacts[0].normal);
 
             rb.velocity = direction * Mathf.Max(speed, 0f);
+            audioMaker.GetComponent<RandomAudio>().PlayRandom();
         }
     }
 

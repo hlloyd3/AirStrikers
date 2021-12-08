@@ -6,7 +6,7 @@ public class OpenMenu : MonoBehaviour
 {
 
     public GameObject escapeMenu;
-    private bool isActive;
+    private bool isActive = false;
 
     private void Update()
     {

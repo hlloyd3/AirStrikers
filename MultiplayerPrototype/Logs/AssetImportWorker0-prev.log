@@ -15,11 +15,11 @@ D:/Projects/HayleyDaniela/AirStrikers/MultiplayerPrototype
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-65149
+62160
 Successfully changed project path to: D:/Projects/HayleyDaniela/AirStrikers/MultiplayerPrototype
 D:/Projects/HayleyDaniela/AirStrikers/MultiplayerPrototype
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 32.72 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 32.63 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.13f1 (71691879b7f5)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
@@ -35,83 +35,83 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56152
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56324
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001885 seconds.
+Registered in 0.001886 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 28.16 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 27.18 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.024 seconds
+- Completed reload, in  1.014 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003492 seconds.
+Registered in 0.003369 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-0000021F734DC3D0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
+Symbol file data-000001CAFA52DCC0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78C969B0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
+Symbol file data-000001CAFA3FE070 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78C969B0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-000001CAFA3FE070 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F734EEFF0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-000001CAFAC9B010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F734A1B10 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-000001C900491060 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78FC6220 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-000001CAFA5386D0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78548030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-000001CAFEBAD9E0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78FC6220 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-000001CAFACAF820 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78FC6220 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
+Symbol file data-000001CAFA5386D0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78315020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-000001CAFA5FB020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78FC6220 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-000001CAFA5386D0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F734EEFF0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-000001CAFEF77230 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78C969B0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
+Symbol file data-000001CAFA86F910 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F734D25C0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
+Symbol file data-000001CAFA400080 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F734A1B10 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file data-000001C900491060 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7877EA50 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
+Symbol file data-000001CAFA0D0530 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78FC6220 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
+Symbol file data-000001CAFACAF820 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F739B0020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-000001CAFA174E10 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77A85010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file data-000001CAFF0B4A30 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77A85010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file data-000001CAFEEF5020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F739B0020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
+Symbol file data-000001CAFACD6FC0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F734D2DD0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
+Symbol file data-000001CAFA5E8890 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78589A60 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
+Symbol file data-000001CAFAC392C0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.022 seconds
+- Completed reload, in  0.909 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
 Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1634 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 75.5 MB.
-System memory in use after: 75.6 MB.
+Unloading 1638 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.6 MB.
+System memory in use after: 75.7 MB.
 
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2065.
-Total: 1.774400 ms (FindLiveObjects: 0.126400 ms CreateObjectMapping: 0.039400 ms MarkObjects: 1.536200 ms  DeleteObjects: 0.071600 ms)
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2069.
+Total: 2.049700 ms (FindLiveObjects: 0.151200 ms CreateObjectMapping: 0.040100 ms MarkObjects: 1.786800 ms  DeleteObjects: 0.070200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -127,334 +127,82 @@ AssetImportParameters requested are different than current active one (requested
 Received Import Request.
   path: Assets/Scenes/GameScene.unity
   artifactKey: Guid(a2b2f09757e7bf943a89fdcba846f1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/GameScene.unity using Guid(a2b2f09757e7bf943a89fdcba846f1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ef5e2fdba245c77d4e281e53aaa19bc') in 0.019545 seconds 
-  Import took 0.023142 seconds .
+Start importing Assets/Scenes/GameScene.unity using Guid(a2b2f09757e7bf943a89fdcba846f1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbc6358d3d9d74dfaed3413ec6adcbfc') in 0.013406 seconds 
+  Import took 0.015686 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 524.614609 seconds.
-  path: Assets/Scripts/ScoreGoal.cs
-  artifactKey: Guid(6b39fad48269d5049a96892141a82247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/ScoreGoal.cs using Guid(6b39fad48269d5049a96892141a82247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52917944531562351d9ecdf4f319ff9c') in 0.030963 seconds 
-  Import took 0.033645 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003983 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F73488010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F735DECB0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F735DECB0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73568010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78CBEA00 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78D06010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F781D3010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F792B2020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78D06010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F730E5010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78D06010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B06B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73111A40 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78C9C1B0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79103020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C606A90 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73488010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73A09020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73453020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77B3F010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F786C6C20 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C3FC0B0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C460F70 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.873 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1616 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 74.2 MB.
-System memory in use after: 74.3 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2070.
-Total: 2.489000 ms (FindLiveObjects: 0.156500 ms CreateObjectMapping: 0.065700 ms MarkObjects: 2.197900 ms  DeleteObjects: 0.067900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003300 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F73488010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F735DECB0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F735DECB0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F781A7030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77A6D010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78D06010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CE6020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F792B2020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78D06010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C4C5010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78D06010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79820010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BB98010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73B8E490 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AD39010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78C6E3F0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73488010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7864EE20 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7CC08010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C4C5010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7864EE20 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F733D47F0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9D76C350 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.841 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1616 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 74.2 MB.
-System memory in use after: 74.3 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2074.
-Total: 1.978600 ms (FindLiveObjects: 0.181100 ms CreateObjectMapping: 0.070400 ms MarkObjects: 1.664800 ms  DeleteObjects: 0.060700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003350 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F7BC82010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7312F8D0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C680CB0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79766020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7820D040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F792B2020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AC20080 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73A23020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F792B2020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7838F010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F792B2020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79820010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BB98010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79896010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F799CE070 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C0DB6D0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BC82010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B50E460 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7977E040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B4C9020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B50E460 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7346A390 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD844B0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.851 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1616 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 74.2 MB.
-System memory in use after: 74.3 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2078.
-Total: 1.758500 ms (FindLiveObjects: 0.143600 ms CreateObjectMapping: 0.045200 ms MarkObjects: 1.515000 ms  DeleteObjects: 0.053600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 1036.160375 seconds.
+  Time since last request: 47.930628 seconds.
   path: Assets/Scenes/GameScene.unity
   artifactKey: Guid(a2b2f09757e7bf943a89fdcba846f1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/GameScene.unity using Guid(a2b2f09757e7bf943a89fdcba846f1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12866711331791802e29ea8db606f713') in 0.013295 seconds 
-  Import took 0.016103 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.572963 seconds.
-  path: Assets/Scripts/ScoreGoal.cs
-  artifactKey: Guid(6b39fad48269d5049a96892141a82247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/ScoreGoal.cs using Guid(6b39fad48269d5049a96892141a82247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892b87b5f1e479cdf5d4205bce266ff2') in 0.002746 seconds 
-  Import took 0.005011 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000878 seconds.
-  path: Assets/Scripts/ScoreGoal.cs
-  artifactKey: Guid(6b39fad48269d5049a96892141a82247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/ScoreGoal.cs using Guid(6b39fad48269d5049a96892141a82247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892b87b5f1e479cdf5d4205bce266ff2') in 0.002246 seconds 
-  Import took 0.004477 seconds .
+Start importing Assets/Scenes/GameScene.unity using Guid(a2b2f09757e7bf943a89fdcba846f1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '672a7485cd4233df3bbaf7503058f274') in 0.001776 seconds 
+  Import took 0.004301 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.004344 seconds.
+Registered in 0.003371 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-0000021F7B5C0F20 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
+Symbol file data-000001C90048B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77BD5020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
+Symbol file data-000001C902A68310 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DC47060 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-000001C902A68310 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9E39C020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-000001C900513020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C049410 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-000001CAFF974040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CC5C80 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-000001C902AAE010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AD3FEE0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-000001CAFF045020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F792B2020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-000001CAFA44A010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B95C010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
+Symbol file data-000001C902AAE010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F781E5020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-000001CAFA6CFB60 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B95C010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-000001C902AAE010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C3E8D20 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-000001CAFA9C7590 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B9CF5C0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
+Symbol file data-000001C9001BCE00 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AD2B780 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
+Symbol file data-000001C900493230 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C10D9B0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file data-000001CAFF974040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B365290 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
+Symbol file data-000001C902C22380 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7361CD50 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
+Symbol file data-000001CAFA327D60 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73B84D60 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-000001C902BDA010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7977E040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file data-000001CAFAC9B010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7838F010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file data-000001C902FD3460 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7985E030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
+Symbol file data-000001CAFA364430 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73467630 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
+Symbol file data-000001CAFA4A3E20 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9E3C4690 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
+Symbol file data-000001C9000F1A60 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.833 seconds
+- Completed reload, in  0.883 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1616 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1619 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 74.3 MB.
 System memory in use after: 74.3 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2082.
-Total: 1.835500 ms (FindLiveObjects: 0.153500 ms CreateObjectMapping: 0.048300 ms MarkObjects: 1.584300 ms  DeleteObjects: 0.048300 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2073.
+Total: 1.925600 ms (FindLiveObjects: 0.147000 ms CreateObjectMapping: 0.048500 ms MarkObjects: 1.680100 ms  DeleteObjects: 0.049100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -468,77 +216,77 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 30.548895 seconds.
-  path: Assets/Scenes/GameScene.unity
-  artifactKey: Guid(a2b2f09757e7bf943a89fdcba846f1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/GameScene.unity using Guid(a2b2f09757e7bf943a89fdcba846f1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88651e975f6facc22e38830f555b21a4') in 0.011097 seconds 
-  Import took 0.013824 seconds .
+  Time since last request: 48.482697 seconds.
+  path: Assets/Scripts/OpenMenu.cs
+  artifactKey: Guid(7a251c9f788835e4d84056e1bb3e0512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/OpenMenu.cs using Guid(7a251c9f788835e4d84056e1bb3e0512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '430f3f396c09f3d0f0c525b8eaf87e23') in 0.028249 seconds 
+  Import took 0.030342 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.004666 seconds.
+Registered in 0.003521 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-0000021F7C081820 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
+Symbol file data-000001C903DB5D20 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7819B6D0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
+Symbol file data-000001C902AB7E40 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F730F04B0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-000001C902AB7E40 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C1DA010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-000001C9002DE9A0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CAC050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-000001CAFECB0C60 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CC5720 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-000001CAFF1A5030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AD3FEE0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-000001C90229FD60 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F792B2020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-000001C9002DE9A0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C912030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
+Symbol file data-000001CAFF1A5030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B223040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-000001C9033B6030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CC5720 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-000001CAFF1A5030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7CABCDA0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-000001CAFA9C7590 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7CAB4030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
+Symbol file data-000001CAFA3421C0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AD2B780 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
+Symbol file data-000001CAFA36A830 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C038840 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file data-000001CAFECB0C60 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B3666D0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
+Symbol file data-000001C900ECE680 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F779180C0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
+Symbol file data-000001C902DDFED0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B898060 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-000001C905CE4980 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7952A030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file data-000001CAFEBAD9E0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F781E5020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file data-000001CAFA747010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F794E2AC0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
+Symbol file data-000001C902F19620 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BE3F450 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
+Symbol file data-000001C900775700 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F727D3060 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
+Symbol file data-000001C903096A60 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.828 seconds
+- Completed reload, in  0.883 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1616 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1619 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 74.3 MB.
 System memory in use after: 74.4 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2086.
-Total: 2.031200 ms (FindLiveObjects: 0.152600 ms CreateObjectMapping: 0.041400 ms MarkObjects: 1.783800 ms  DeleteObjects: 0.052400 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2077.
+Total: 2.100000 ms (FindLiveObjects: 0.152000 ms CreateObjectMapping: 0.046000 ms MarkObjects: 1.843300 ms  DeleteObjects: 0.057600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -550,1576 +298,4 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004057 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F7C35DB70 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CCD730 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7378C380 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9D58A040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C038840 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C912030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9D609FF0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F792B2020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C912030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C2A92E0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C912030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9E2C2ED0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C10FE90 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77AC64C0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C038840 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B368020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F779180C0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CAC050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C40E020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B223040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7812B040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B3510A0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F734F1B60 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.811 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1616 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 74.3 MB.
-System memory in use after: 74.4 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2090.
-Total: 1.791500 ms (FindLiveObjects: 0.155500 ms CreateObjectMapping: 0.048800 ms MarkObjects: 1.539100 ms  DeleteObjects: 0.046900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 102.808752 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3db94189fc72cf51c753b06ea33bd7d1') in 0.078076 seconds 
-  Import took 0.080996 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.513212 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c75116b373df0bf90f134d0acf5894') in 0.011486 seconds 
-  Import took 0.014183 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.821835 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47bb146be1920232a15325a317ed65cc') in 0.007346 seconds 
-  Import took 0.010065 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003304 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F7323F030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7819B6D0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F795549C0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BD0C030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9ECE2010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C094310 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9E658020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F779F1010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F792B2020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7CA8C010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F792B2020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F795F8EF0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79384030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AD2B780 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C038840 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79B174E0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7323F030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77AC1060 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7838F010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD8D030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F794E2AC0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C9173B0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F735477A0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.809 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1616 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.4 MB.
-System memory in use after: 77.5 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2101.
-Total: 1.712300 ms (FindLiveObjects: 0.123300 ms CreateObjectMapping: 0.037500 ms MarkObjects: 1.505800 ms  DeleteObjects: 0.044800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 24.303911 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b945dca7cdd726a9ad33560eb3cdeef4') in 0.046954 seconds 
-  Import took 0.049418 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.353085 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cacbe251d71af2b5144a4108c7a0dc54') in 0.005640 seconds 
-  Import took 0.008104 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.069936 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '902f106f13918296fabc76be8901ac4d') in 0.006405 seconds 
-  Import took 0.009549 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003278 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F7B95C010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DEB2020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9E550080 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD4B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79590040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9E2B4AA0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9ECA0020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C35AFB0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C0FB030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7CA8C010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C0FB030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B06B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73111A40 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BDB4430 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C038840 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79B10070 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7CC23B70 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B898060 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9D79E080 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9E880030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C033700 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C914650 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F734F2CD0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.824 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1616 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.4 MB.
-System memory in use after: 77.5 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2106.
-Total: 1.914200 ms (FindLiveObjects: 0.154900 ms CreateObjectMapping: 0.056200 ms MarkObjects: 1.654500 ms  DeleteObjects: 0.047600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 36.966179 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a97e00e81217b865341782e093d63ab8') in 0.048527 seconds 
-  Import took 0.051657 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.531112 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '623469c0f763f4e617f8278e202dae03') in 0.011685 seconds 
-  Import took 0.014437 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.589888 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a730a5cbf2780fa0fe2a1b839e7ab5e8') in 0.005653 seconds 
-  Import took 0.008117 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003830 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F7B185040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73553C70 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C829220 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C68A050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CA2030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F783A1020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DA3F840 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F779F1010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78D06010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9E870020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78D06010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B06B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77AC3070 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78584A50 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CCD730 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79B16AC0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B185040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B898060 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD9D050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7CA8C010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C290DE0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BA8D070 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EABEEE0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.936 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1616 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.4 MB.
-System memory in use after: 77.5 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2111.
-Total: 1.945000 ms (FindLiveObjects: 0.175700 ms CreateObjectMapping: 0.047400 ms MarkObjects: 1.663800 ms  DeleteObjects: 0.057000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003365 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F783A1020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77AC3070 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9E68ECD0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B040F20 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CA2030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F783A1020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73591C90 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F779F1010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C0FB030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EE92010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C0FB030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B06B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77AC3070 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C294DF0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CCD730 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79B123E0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F783A1020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79590040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD9D050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9E870020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79590040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BE3DDA0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F734ED5A0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.837 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1616 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.4 MB.
-System memory in use after: 77.5 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2115.
-Total: 2.314600 ms (FindLiveObjects: 0.173300 ms CreateObjectMapping: 0.049800 ms MarkObjects: 2.019600 ms  DeleteObjects: 0.070500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003418 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F78191020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F792BBE50 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C6FB8D0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F730F5030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B5B9030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B67A010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73591C90 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C359660 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B67A010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EE92010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B67A010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B06B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C341650 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79831190 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B5B9030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B99AD80 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78191020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C038840 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C40E020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9F2AE010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7312FAC0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7CAB0490 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9F25D7A0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.936 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1616 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.4 MB.
-System memory in use after: 77.5 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2119.
-Total: 1.995900 ms (FindLiveObjects: 0.158800 ms CreateObjectMapping: 0.050700 ms MarkObjects: 1.736200 ms  DeleteObjects: 0.049200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 268.940671 seconds.
-  path: Assets/Scripts/ColourChanger.cs
-  artifactKey: Guid(0d6d61a7294939543a6aca8bc82f35a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/ColourChanger.cs using Guid(0d6d61a7294939543a6aca8bc82f35a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6f41dda60c88284fa2a718b0269a64c') in 0.007007 seconds 
-  Import took 0.009857 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003196 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F792B2020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78157040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BFC35F0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C2A92E0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C008AB0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B67A010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9F82E050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C359660 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B67A010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EE92010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B67A010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B06B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F795709B0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C03C850 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B99F080 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B999940 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F792B2020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F733D4010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C67A040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9D79E080 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F733D4010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BB59D70 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9F548320 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.854 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1617 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.5 MB.
-System memory in use after: 77.6 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2124.
-Total: 2.179900 ms (FindLiveObjects: 0.200400 ms CreateObjectMapping: 0.049800 ms MarkObjects: 1.847400 ms  DeleteObjects: 0.080700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 287.002978 seconds.
-  path: Assets/Scripts/ColourChanger.cs
-  artifactKey: Guid(0d6d61a7294939543a6aca8bc82f35a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/ColourChanger.cs using Guid(0d6d61a7294939543a6aca8bc82f35a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f94c1f7f615cc37f7e6f8908608a6ecc') in 0.005250 seconds 
-  Import took 0.008767 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004211 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F783A1020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F730FEE60 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C24D5D0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79AAC040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C008AB0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F783A1020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73591C90 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C359660 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B67A010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EE92010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B67A010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B06B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78157040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9FE83680 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7315ECB0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9FE8BDE0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F783A1020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B4F9040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9F2C0020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F778D9E80 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B4F9040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9E564C30 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9FBF6010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.833 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1617 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.5 MB.
-System memory in use after: 77.6 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2128.
-Total: 1.720700 ms (FindLiveObjects: 0.177100 ms CreateObjectMapping: 0.050500 ms MarkObjects: 1.445100 ms  DeleteObjects: 0.047000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003255 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021FA0835020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BD18FD0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79672C90 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C2A92E0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73731020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C359660 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73591C90 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79AAC040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C359660 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EE92010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C359660 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B06B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7956C9A0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9FE83680 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73731020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9FE89560 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0835020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DCA3010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9F9BA020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9FF4C010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DCA3010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0708A50 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA01C95D0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.826 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1617 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.5 MB.
-System memory in use after: 77.6 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2132.
-Total: 1.775400 ms (FindLiveObjects: 0.183900 ms CreateObjectMapping: 0.041500 ms MarkObjects: 1.496600 ms  DeleteObjects: 0.052400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004377 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F7B4D9030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B683E40 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9D806C90 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C24D580 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD53030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B6BC460 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73591C90 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79AAC040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B6BC460 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EE92010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B6BC460 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B06B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DDB5070 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA085F080 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD53030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0B7C750 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B4D9030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DDB5070 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C6EE020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0B94070 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DDB5070 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9FF6E650 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0889B30 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.843 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1617 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.5 MB.
-System memory in use after: 77.6 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2136.
-Total: 1.701900 ms (FindLiveObjects: 0.135400 ms CreateObjectMapping: 0.040600 ms MarkObjects: 1.480300 ms  DeleteObjects: 0.044800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 315.773370 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '334472eea6cfe16d35a31d21836f6447') in 0.057171 seconds 
-  Import took 0.060064 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003563 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F7B185040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F735DECB0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C2D2390 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BB56830 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CAC050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F783A1020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C12E0F0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9FEFA030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DCB9030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EE92010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DCB9030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AD6FF10 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD79050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DF38020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AE4B840 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0B7F9F0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F794CA020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78580250 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9D79E080 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B020F00 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9F372050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0C39EF0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0D9C5C0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.977 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1617 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.5 MB.
-System memory in use after: 77.6 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2141.
-Total: 2.030400 ms (FindLiveObjects: 0.142900 ms CreateObjectMapping: 0.045000 ms MarkObjects: 1.774900 ms  DeleteObjects: 0.066300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 149.015869 seconds.
-  path: Assets/Scripts/ColourChanger.cs
-  artifactKey: Guid(0d6d61a7294939543a6aca8bc82f35a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/ColourChanger.cs using Guid(0d6d61a7294939543a6aca8bc82f35a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e76426032f99a15b60e6fcb5a2b22b8') in 0.003685 seconds 
-  Import took 0.006144 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003187 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F7B185040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F735DECB0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C013730 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BB56830 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F79103020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F783A1020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C12E0F0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9FEFA030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DCB9030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EE92010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DCB9030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B06B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD79050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DF38020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AE4B840 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0B794B0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F794CA020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78580250 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9D79E080 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B020F00 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9FD5D0F0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9FF6F570 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA088F830 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.818 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1617 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.5 MB.
-System memory in use after: 77.6 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2145.
-Total: 1.822800 ms (FindLiveObjects: 0.147500 ms CreateObjectMapping: 0.045500 ms MarkObjects: 1.579300 ms  DeleteObjects: 0.049600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 509.580640 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd055f427ac89bb09484860118c0bac0a') in 0.045441 seconds 
-  Import took 0.048063 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.387237 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9065a733ca5e0d085c83f592df5e2bda') in 0.013267 seconds 
-  Import took 0.017104 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.025283 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9065a733ca5e0d085c83f592df5e2bda') in 0.007758 seconds 
-  Import took 0.010228 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.835718 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a5921c0dadca437176dab202dd0e06') in 0.013788 seconds 
-  Import took 0.016714 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.095747 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aecff67e464ddcd308ec18cbf905fbd5') in 0.016309 seconds 
-  Import took 0.019575 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.620494 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b35a2d21ae6172be2bce08559841a0c0') in 0.016520 seconds 
-  Import took 0.019309 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.294774 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e134c556d677ddc6101948559633a46') in 0.017147 seconds 
-  Import took 0.019644 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.905548 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b7f2a413433359833a7bd3b18358aa') in 0.006966 seconds 
-  Import took 0.017517 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.980773 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '810c75393a94b1a0e71bb19e51c645cd') in 0.006231 seconds 
-  Import took 0.008802 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.423095 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a88eb175b84e9e7a8138c0b1b3f540a') in 0.006104 seconds 
-  Import took 0.008690 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.441715 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b11eafeeba7c5f12f97303d5cb5fbc0') in 0.015031 seconds 
-  Import took 0.018231 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003360 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F7B185040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78198700 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9D7C5CC0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BB56830 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CAC050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F783A1020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0B269A0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9D63DA70 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DCB9030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EE92010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DCB9030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B06B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78DFA030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD184E0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AE4B840 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F794CBED0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B185040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78580250 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9D79E080 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F778D9E80 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C04B420 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BF988D0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73541AA0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.948 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1617 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.5 MB.
-System memory in use after: 77.6 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2150.
-Total: 2.135900 ms (FindLiveObjects: 0.157200 ms CreateObjectMapping: 0.050000 ms MarkObjects: 1.878500 ms  DeleteObjects: 0.049200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 176.240019 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bb4c67134d1f22b8b86a9d5e6919d7e') in 0.054543 seconds 
-  Import took 0.057455 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.224007 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f261801523cff5881dffcb47cd906b93') in 0.008117 seconds 
-  Import took 0.011417 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.018558 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f261801523cff5881dffcb47cd906b93') in 0.008960 seconds 
-  Import took 0.012113 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.488318 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '897db5980cfc9baffc98a7aa043ed1a5') in 0.006253 seconds 
-  Import took 0.018429 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.012522 seconds.
-  path: Assets/Resources/NewPlayer.prefab
-  artifactKey: Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/NewPlayer.prefab using Guid(961f75e68c35d5a45800b8d0f02a3543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '897db5980cfc9baffc98a7aa043ed1a5') in 0.005882 seconds 
-  Import took 0.008283 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 88.700405 seconds.
-  path: Assets/Scripts/ExitGame.cs
-  artifactKey: Guid(377111bbfe2769d4297b58bf2c8c9b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/ExitGame.cs using Guid(377111bbfe2769d4297b58bf2c8c9b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b84b25eab05a09d0a6cb93f3776e1959') in 0.005235 seconds 
-  Import took 0.008184 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004041 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F7B185040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0E85B10 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9D8090A0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DA6F870 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CAC050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F783A1020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0B269A0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9D63DA70 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA10DBC30 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EE92010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA10DBC30 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B06B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78DFA030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD184E0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AE4B840 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F794CC3E0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7978F870 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD09050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9F7B8020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B020F00 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9FD5D0F0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BF9DC00 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F727D5EE0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.890 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1618 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.6 MB.
-System memory in use after: 77.7 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2156.
-Total: 1.823000 ms (FindLiveObjects: 0.149200 ms CreateObjectMapping: 0.044400 ms MarkObjects: 1.570800 ms  DeleteObjects: 0.057600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004625 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F7BE391B0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0E85B10 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DDC3CD0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9F442040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CAC050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F783A1020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0B269A0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F735F9430 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA10DBC30 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EE92010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA10DBC30 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B06B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78DFA030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD184E0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AE4B840 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F794CC3E0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7BE391B0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD09050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9F7B8020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F778D9E80 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0389830 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F792B82C0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AD62DD0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.836 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1618 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.6 MB.
-System memory in use after: 77.7 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2160.
-Total: 2.248200 ms (FindLiveObjects: 0.157000 ms CreateObjectMapping: 0.040200 ms MarkObjects: 2.000100 ms  DeleteObjects: 0.050000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 36.765268 seconds.
-  path: Assets/Scripts/ExitGame.cs
-  artifactKey: Guid(377111bbfe2769d4297b58bf2c8c9b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/ExitGame.cs using Guid(377111bbfe2769d4297b58bf2c8c9b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3482b75d25cb3f6d15e3b66e83c8310') in 0.003225 seconds 
-  Import took 0.005496 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.149092 seconds.
-  path: Assets/Scripts/OpenMenu.cs
-  artifactKey: Guid(7a251c9f788835e4d84056e1bb3e0512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/OpenMenu.cs using Guid(7a251c9f788835e4d84056e1bb3e0512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b634703259fb389fe028783b7c173683') in 0.005122 seconds 
-  Import took 0.007551 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003232 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F779F1010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73851730 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9FB44540 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9F442040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CAC050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7323F030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B08D020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F735F9430 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7323F030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EE92010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7323F030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B06B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B682020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD184E0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AE4B840 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9D7B2CD0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F779F1010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD09050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9F412010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F778D9E80 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C04B420 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B67EC00 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EF11D70 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.885 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1619 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.6 MB.
-System memory in use after: 77.7 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2165.
-Total: 2.067600 ms (FindLiveObjects: 0.155900 ms CreateObjectMapping: 0.042400 ms MarkObjects: 1.820800 ms  DeleteObjects: 0.047400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004154 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000021F7C0FB030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78369020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonChat.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EEFE470 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9F442040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F77CAC050 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0B78020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73591C90 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F735F9430 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0B78020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Demos.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EE92010 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021FA0B78020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7B06B020 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DC45040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9DD184E0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AE4B840 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9D7B27C0 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoHubEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7C0FB030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonRealtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F78155030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9F506040 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F778D9E80 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F7AEE9030 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F73243490 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PunDemos.DemoSlotcarEditor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000021F9EE0F180 doesn't match image D:\Projects\HayleyDaniela\AirStrikers\MultiplayerPrototype\Library\ScriptAssemblies\PhotonUnityNetworking.Utilities.Culling.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.856 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1619 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.7 MB.
-System memory in use after: 77.7 MB.
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2169.
-Total: 2.003100 ms (FindLiveObjects: 0.154900 ms CreateObjectMapping: 0.038500 ms MarkObjects: 1.760700 ms  DeleteObjects: 0.048000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 153.637305 seconds.
-  path: Assets/Scripts/OpenMenu.cs
-  artifactKey: Guid(7a251c9f788835e4d84056e1bb3e0512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/OpenMenu.cs using Guid(7a251c9f788835e4d84056e1bb3e0512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78c38d5ea26abf2c7d2714e8088c23ea') in 0.003534 seconds 
-  Import took 0.005799 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 32.141389 seconds.
-  path: Assets/Scenes/GameScene.unity
-  artifactKey: Guid(a2b2f09757e7bf943a89fdcba846f1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/GameScene.unity using Guid(a2b2f09757e7bf943a89fdcba846f1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd70c9f4d90ec526323c5f468b70a933f') in 0.009534 seconds 
-  Import took 0.012159 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 67.891232 seconds.
-  path: Assets/Scenes/Lobby.unity
-  artifactKey: Guid(e42d0b50f4402ac468fc951be4b46c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Lobby.unity using Guid(e42d0b50f4402ac468fc951be4b46c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '363279a6dcd5fea55ae6852b0ccd95d6') in 0.005290 seconds 
-  Import took 0.007986 seconds .
-
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
