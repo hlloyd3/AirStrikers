@@ -12,7 +12,7 @@ public class SpawnPlayers : MonoBehaviour
 
     private void Start()
     {
-        PhotonNetwork.Instantiate(playerPrefab.name, spawnPoint.position, Quaternion.identity);
+        PhotonNetwork.Instantiate(playerPrefab.name, spawnPoint.position, Quaternion.Euler(-90, 0, 0));
     }
 
 }

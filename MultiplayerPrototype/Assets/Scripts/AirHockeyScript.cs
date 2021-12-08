@@ -6,22 +6,46 @@ using UnityEngine.UI;
 public class AirHockeyScript : MonoBehaviour
 {
     public Text BlueScoreText, RedScoreText;
-    private int blueScore, redScore;
+    public int blueScore, redScore;
 
-    public enum Score
+    public Transform puckSpawnPoint;
+
+    public GameObject puckCurrent;
+
+    public GameObject blueWinScreen;
+    public GameObject RedWinScreen;
+
+    private void Update()
     {
-        BlueScore, RedScore
+        puckCurrent = GameObject.FindGameObjectWithTag("Puck");
+        
     }
 
-    public void Increment(Score whichScore)
+    public void IncrementBlue()
     {
-        if (whichScore == Score.BlueScore)
+        BlueScoreText.text = (++blueScore).ToString();
+        ResetPuck();
+    }
+
+    public void IncrementRed()
+    {
+        RedScoreText.text = (++redScore).ToString();
+        ResetPuck();
+    }
+
+    public void ResetPuck()
+    {
+        puckCurrent.transform.position = puckSpawnPoint.position;
+        puckCurrent.GetComponent<Rigidbody>().velocity = new Vector3(0, 0, 0);
+        if (blueScore >= 7)
         {
-            BlueScoreText.text = (++blueScore).ToString();
+            blueWinScreen.SetActive(true);
+            Time.timeScale = 0;
         }
-        else
+        else if (redScore >= 7)
         {
-            RedScoreText.text = (++redScore).ToString();
+            RedWinScreen.SetActive(true);
+            Time.timeScale = 0;
         }
     }
 }
